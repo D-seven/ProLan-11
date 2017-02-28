@@ -1,0 +1,13 @@
+
+class Mahasiswa {
+	
+
+	    public static void main(String[] args){
+	    	System.out.println("Nama : Sandy Akbar" );
+	    	System.out.println("Nim : 10114504" );
+	    	System.out.println("Alamat : Bandung" );
+	    	
+	        
+	    }
+	}
+
